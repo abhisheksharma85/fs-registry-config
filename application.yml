@@ -15,5 +15,5 @@ jhipster:
                 #secret: bXktc2VjcmV0LXRva2VuLXRvLWNoYW5nZS1pbi1wcm9kdWN0aW9uLWFuZC10by1rZWVwLWluLWEtc2VjdXJlLXBsYWNl
                 secret: this-is-secret-key-for-filmsolutions-pko8-which-should-be-changed-in-production-and-be-base64-encoded
                 #base64-secret: YlhrdGMyVmpjbVYwTFhSdmEyVnVMWFJ2TFdOb1lXNW5aUzFwYmkxd2NtOWtkV04wYVc5dUxXRnVaQzEwYnkxclpXVndMV2x1TFdFdGMyVmpkWEpsTFhCc1lXTmw=
-                base64-secret: dGhpcy1pcy1zZWNyZXQta2V5LWZvci1maWxtc29sdXRpb25zLXBrbzgtd2hpY2gtc2hvdWxkLWJlLWNoYW5nZWQtaW4tcHJvZHVjdGlvbi1hbmQtYmUtYmFzZTY0LWVuY29kZWQK
+                #base64-secret: dGhpcy1pcy1zZWNyZXQta2V5LWZvci1maWxtc29sdXRpb25zLXBrbzgtd2hpY2gtc2hvdWxkLWJlLWNoYW5nZWQtaW4tcHJvZHVjdGlvbi1hbmQtYmUtYmFzZTY0LWVuY29kZWQK
 
