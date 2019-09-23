@@ -14,6 +14,6 @@ jhipster:
             jwt:
                 #secret: bXktc2VjcmV0LXRva2VuLXRvLWNoYW5nZS1pbi1wcm9kdWN0aW9uLWFuZC10by1rZWVwLWluLWEtc2VjdXJlLXBsYWNl
                 secret: bXktc2VjcmV0LWtleS13aGljaC1zaG91bGQtYmUtY2hhbmdlZC1pbi1wcm9kdWN0aW9uLWFuZC1iZS1iYXNlNjQtZW5jb2RlZAo=
-                #base64-secret: YlhrdGMyVmpjbVYwTFhSdmEyVnVMWFJ2TFdOb1lXNW5aUzFwYmkxd2NtOWtkV04wYVc5dUxXRnVaQzEwYnkxclpXVndMV2x1TFdFdGMyVmpkWEpsTFhCc1lXTmw=
+                base64-secret: YlhrdGMyVmpjbVYwTFhSdmEyVnVMWFJ2TFdOb1lXNW5aUzFwYmkxd2NtOWtkV04wYVc5dUxXRnVaQzEwYnkxclpXVndMV2x1TFdFdGMyVmpkWEpsTFhCc1lXTmw=
                 #base64-secret: dGhpcy1pcy1zZWNyZXQta2V5LWZvci1maWxtc29sdXRpb25zLXBrbzgtd2hpY2gtc2hvdWxkLWJlLWNoYW5nZWQtaW4tcHJvZHVjdGlvbi1hbmQtYmUtYmFzZTY0LWVuY29kZWQK
 
